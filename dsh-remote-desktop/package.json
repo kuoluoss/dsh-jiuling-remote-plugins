@@ -30,12 +30,12 @@
   "author": "dsh-jiuling-remote-plugins contributors",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OWNER/dsh-jiuling-remote-plugins.git",
+    "url": "git+https://github.com/pht88888888/dsh-jiuling-remote-plugins.git",
     "directory": "dsh-remote-desktop"
   },
-  "homepage": "https://github.com/OWNER/dsh-jiuling-remote-plugins#readme",
+  "homepage": "https://github.com/pht88888888/dsh-jiuling-remote-plugins#readme",
   "bugs": {
-    "url": "https://github.com/OWNER/dsh-jiuling-remote-plugins/issues"
+    "url": "https://github.com/pht88888888/dsh-jiuling-remote-plugins/issues"
   },
   "files": [
     "lib",
