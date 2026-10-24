@@ -1,0 +1,18 @@
+node_modules/
+*.log
+.DS_Store
+Thumbs.db
+
+# 打包产物
+*.tgz
+
+# 运行期凭据 —— 绝不能入库
+token.txt
+*.token
+.env
+.env.*
+config.json
+
+# 编辑器
+.vscode/
+.idea/
